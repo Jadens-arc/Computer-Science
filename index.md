@@ -72,12 +72,14 @@ double myDub = 6;
 ```
 
 #### Char
+- can only be one character long
+- can be take from String
 ``` java
 char myChar = 'c';
 ```
 
 #### Boolean
-- must be true or false
+- must be ```true``` or ```false```
 ``` java
 boolean myBool = false;
 ```
@@ -148,5 +150,5 @@ class Driver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcwNzM3MDQ3XX0=
+eyJoaXN0b3J5IjpbLTE1NDE2NjA2MDRdfQ==
 -->
