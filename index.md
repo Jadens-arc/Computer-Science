@@ -64,7 +64,7 @@ class Main
     name = username;
   }
   
-  Public sayHi()
+  Public void sayHi()
   {
     System.out.println(greeting + name);
   }
