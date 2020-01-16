@@ -32,18 +32,21 @@ Return: what will be returned when the method is ran
 
 ### Primitives:
 #### Int
-largest number is 2147483647
+largest number is 2,147,483,647
+- must be a whole number
+- can be positive or negative
 ``` java
 int myInt = 8;
 ```
 
 #### Short
-largest number is 
+largest number is 32,767
 ``` java
 short myShort 
 ```
 
 #### Long
+largest number is 9,223,372,036,854,775,807
 ``` java
 ```
 
@@ -133,5 +136,5 @@ class Driver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMzYyMDUzOF19
+eyJoaXN0b3J5IjpbLTEzOTgwMTEzMDFdfQ==
 -->
