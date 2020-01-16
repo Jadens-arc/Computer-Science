@@ -3,7 +3,7 @@
 ## Java Docs
 
 **For Entire Program**
-```
+``` java 
 /*
 *@ AUTHOR:
 *@ ASSIGNMENT: 
@@ -14,7 +14,7 @@
 ```
 
 **For Method**
-```
+``` java
 /*
 Pre: any variables that need to be declared before the function can be ran 
 Param: any parameters used and their data type[ex. String name] 
@@ -24,7 +24,7 @@ Return: what will be returned when the method is ran
 ```
 
 **End of Any Curly Bracket**
-```
+``` java 
 // ends the
 ```
 
