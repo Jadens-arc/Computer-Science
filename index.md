@@ -42,6 +42,7 @@ Return: what will be returned when the method is ran
 
 ### Non-Primitives:
 #### String
+#### Array List
 #### Array
 
 ## Structure of a Program
