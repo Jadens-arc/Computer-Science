@@ -1,5 +1,4 @@
-# Computer Science 
-## with Jaden
+# with Jaden
 
 #### Java Docs
 
@@ -12,4 +11,19 @@
 *@ VERSION:
 *@ FEEDBACK:
 */
+```
+
+**For Method**
+```
+/*
+Pre:
+Param:
+Post:
+Return:
+*/
+```
+
+**End of any curly bracket**
+```
+// ends the
 ```
