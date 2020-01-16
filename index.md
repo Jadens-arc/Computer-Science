@@ -29,3 +29,19 @@ Return: what will be returned when the method is ran
 ```
 
 ## Data Types
+
+### Primitives:
+#### Int
+#### Short
+#### Long
+#### Float
+#### Double
+#### Byte
+#### Char
+#### Boolean
+
+### Non-Primitives:
+#### String
+#### Array
+
+
