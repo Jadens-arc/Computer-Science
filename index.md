@@ -1,6 +1,6 @@
 # with Jaden
 
-#### Java Docs
+## Java Docs
 
 **For Entire Program**
 ```
@@ -23,7 +23,9 @@ Return: what will be returned when the method is ran
 */
 ```
 
-**End of any curly bracket**
+**End of Any Curly Bracket**
 ```
 // ends the
 ```
+
+## Data Types
