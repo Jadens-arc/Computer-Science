@@ -41,35 +41,40 @@ int myInt = 8;
 
 #### Byte
 largest number is 127
+- must be a whole number
+- can be positive or negative
 ``` java
 byte myByte = 8;
 ```
 
 #### Short
 largest number is 32,767
+- must be a whole number
+- can be positive or negative
 ``` java
 short myShort = 8;
 ```
 
 #### Long
 largest number is 9,223,372,036,854,775,807
+- must be a whole number
+- can be positive or negative
 ``` java
 long mLong = 8;
 ```
 
-#### Float
-- does not have to be whole
-largest number is approximately ±3.40282347E+38F  
+#### Floatl
+argest number is approximately ±3.40282347E+38F  
 (6-7 significant decimal digits)
+- does not have to be whole
 ``` java
 float myFloat = 9.41;
 ```
 
 #### Double
-- does not have to be whole
-
 largest number is approximately ±1.79769313486231570E+308  
 (15 significant decimal digits)
+- does not have to be whole
 ``` java
 double myDub = 6;
 ```
@@ -153,5 +158,5 @@ class Driver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDEwNTI5MjRdfQ==
+eyJoaXN0b3J5IjpbLTY5Njk1ODIyNV19
 -->
