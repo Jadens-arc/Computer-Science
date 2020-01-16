@@ -32,16 +32,41 @@ Return: what will be returned when the method is ran
 
 ### Primitives:
 #### Int
+``` java
+```
+
 #### Short
+``` java
+```
+
 #### Long
+``` java
+```
+
 #### Float
+``` java
+```
+
 #### Double
+``` java
+```
+
 #### Byte
+``` java
+```
+
 #### Char
+``` java
+```
+
 #### Boolean
+``` java
+```
 
 ### Non-Primitives:
 #### String
+``` java
+```
 #### Array List
 #### Array
 
@@ -97,3 +122,6 @@ class Driver
 
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjExNTk5MTIyMF19
+-->
