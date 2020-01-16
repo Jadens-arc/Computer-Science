@@ -40,7 +40,9 @@ int myInt = 8;
 ```
 
 #### Byte
+largest number is 127
 ``` java
+byte myByte = 8;
 ```
 
 #### Short
@@ -71,10 +73,13 @@ double myDub = 6;
 
 #### Char
 ``` java
+char myChar = 'c';
 ```
 
 #### Boolean
+- must be true or false
 ``` java
+boolean myBool = false;
 ```
 
 ### Non-Primitives:
@@ -143,5 +148,5 @@ class Driver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MTk1ODI1M119
+eyJoaXN0b3J5IjpbMjcwNzM3MDQ3XX0=
 -->
