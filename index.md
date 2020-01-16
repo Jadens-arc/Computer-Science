@@ -42,16 +42,18 @@ int myInt = 8;
 #### Short
 largest number is 32,767
 ``` java
-short myShort 
+short myShort = 8;
 ```
 
 #### Long
 largest number is 9,223,372,036,854,775,807
 ``` java
+long mLong = 8;
 ```
 
 #### Float
 ``` java
+Float myFloat = 9.41;
 ```
 
 #### Double
@@ -136,5 +138,5 @@ class Driver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTgwMTEzMDFdfQ==
+eyJoaXN0b3J5IjpbMTE5NzUxMDUwOF19
 -->
