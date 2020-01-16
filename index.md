@@ -25,7 +25,7 @@ Return: what will be returned when the method is ran
 
 **End of Any Curly Bracket**
 ``` java 
-// ends the
+// ends the [if-statement, for-loop, while-loop, method, class, try/catch, etc]
 ```
 
 ## Data Types
