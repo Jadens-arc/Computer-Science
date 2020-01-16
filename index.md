@@ -39,6 +39,10 @@ largest number is 2,147,483,647
 int myInt = 8;
 ```
 
+#### Byte
+``` java
+```
+
 #### Short
 largest number is 32,767
 ``` java
@@ -52,16 +56,17 @@ long mLong = 8;
 ```
 
 #### Float
+largest number is approximately ±3.40282347E+38F  
+(6-7 significant decimal digits)
 ``` java
-Float myFloat = 9.41;
+float myFloat = 9.41;
 ```
 
 #### Double
+largest number is approximately ±1.79769313486231570E+308  
+(15 significant decimal digits)
 ``` java
-```
-
-#### Byte
-``` java
+double myDub = 6;
 ```
 
 #### Char
@@ -138,5 +143,5 @@ class Driver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NzUxMDUwOF19
+eyJoaXN0b3J5IjpbMTE2MTk1ODI1M119
 -->
