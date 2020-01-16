@@ -44,7 +44,7 @@ Return: what will be returned when the method is ran
 #### String
 #### Array
 
-## Structor of a Program
+## Structure of a Program
 Generally a Java program is made up of two main files
 
 The first file(Main File) which contains all the classes and methods
