@@ -32,11 +32,15 @@ Return: what will be returned when the method is ran
 
 ### Primitives:
 #### Int
+largest number is 2147483647
 ``` java
+int myInt = 8;
 ```
 
 #### Short
+largest number is 
 ``` java
+short myShort 
 ```
 
 #### Long
@@ -67,8 +71,14 @@ Return: what will be returned when the method is ran
 #### String
 ``` java
 ```
+
 #### Array List
+``` java
+```
+
 #### Array
+``` java
+```
 
 ## Structure of a Program
 Generally a Java program is made up of two main files
@@ -123,5 +133,5 @@ class Driver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNTk5MTIyMF19
+eyJoaXN0b3J5IjpbLTMxMzYyMDUzOF19
 -->
