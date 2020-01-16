@@ -56,11 +56,11 @@ And the second file(Driver) that calls these classes and methods
 class Main
 { 
   Private String greeting;
-  Private String name
+  Private String name;
   
   Public Main(String username, String userGreeting = "hello ")
   {
-    greeting = userGreeting
+    greeting = userGreeting;
     name = username;
   }
   
