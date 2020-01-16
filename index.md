@@ -58,6 +58,7 @@ long mLong = 8;
 ```
 
 #### Float
+- does not have to be whole
 largest number is approximately ±3.40282347E+38F  
 (6-7 significant decimal digits)
 ``` java
@@ -65,6 +66,8 @@ float myFloat = 9.41;
 ```
 
 #### Double
+- does not have to be whole
+
 largest number is approximately ±1.79769313486231570E+308  
 (15 significant decimal digits)
 ``` java
@@ -73,7 +76,7 @@ double myDub = 6;
 
 #### Char
 - can only be one character long
-- can be take from String
+- can be take from String using ```myString.charAt(int index)```
 ``` java
 char myChar = 'c';
 ```
@@ -150,5 +153,5 @@ class Driver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDE2NjA2MDRdfQ==
+eyJoaXN0b3J5IjpbLTE4MDEwNTI5MjRdfQ==
 -->
