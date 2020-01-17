@@ -63,7 +63,7 @@ largest number is 9,223,372,036,854,775,807
 long myLong = 8;
 ```
 
-#### Floatl
+#### Float
 argest number is approximately ±3.40282347E+38F  
 (6-7 significant decimal digits)
 - does not have to be whole
@@ -97,6 +97,7 @@ boolean myBool = false;
 > ```java
 >  import java.util.*;
 >  ```
+
 #### String
 ``` java
 String myString = "Hell0 Internet!";
@@ -187,6 +188,6 @@ class Driver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNTgwMzQyOSwxNzc1NzkwNzIwLC02OT
+eyJoaXN0b3J5IjpbMTc0MTE3NjAzOSwxNzc1NzkwNzIwLC02OT
 Y5NTgyMjVdfQ==
 -->
