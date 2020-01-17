@@ -129,6 +129,10 @@ ArrayList<Integer> strList = new ArrayList<Integer>();
 ```
  **Methods**
 
+- add
+ - remove
+ - get
+ - se
 
 #### Array
 Downsides (when compared to an Array)
@@ -149,14 +153,14 @@ dataType[] name = new dataType[size]
 */
 String[] myStrList = new String[5]; 
 ```
-Setting values in an array
+**Setting values in an array**
 ```java
 /*
 name[item index] = data
 */
 myStrList[0] = "hi";
 ```
-Printing an array
+**Printing an array**
 ```java
 System.out.println(Array.toString(myStrList));
 /*
@@ -218,6 +222,6 @@ class Driver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwODg3MzE5MywzMzExMDk3MjcsMTc3NT
-c5MDcyMCwtNjk2OTU4MjI1XX0=
+eyJoaXN0b3J5IjpbLTE5NjY2Nzg0MzAsMzMxMTA5NzI3LDE3Nz
+U3OTA3MjAsLTY5Njk1ODIyNV19
 -->
