@@ -1,5 +1,3 @@
-# with Jaden
-
 ## Java Docs
 
 **For Entire Program**
@@ -134,6 +132,7 @@ ArrayList<Integer> intList = new ArrayList<Integer>();
 - get()
 - set()
 - length()
+- clear()
 
 **add()**
 Allows you to add on to the end of an ArrayList
@@ -141,7 +140,10 @@ Allows you to add on to the end of an ArrayList
 strList.add("hi");
 ```
 **remove**
-Allows you to rem
+Allows you to remove an element in an ArrayList
+```java
+strList.remove(0);
+```
 
 #### Array
 Downsides (when compared to an Array)
@@ -234,6 +236,6 @@ class Driver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MzcyLDMzMTEwOTcyNywxNzc1NzkwNz
-IwLC02OTY5NTgyMjVdfQ==
+eyJoaXN0b3J5IjpbLTE2NjU1MTgwMjEsMzMxMTA5NzI3LDE3Nz
+U3OTA3MjAsLTY5Njk1ODIyNV19
 -->
