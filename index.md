@@ -154,6 +154,13 @@ name[item index] = data
 */
 myStrList[0] = "hi";
 ```
+Printing an array
+```java
+System.out.println(Array.toString(myStrList));
+/*
+ output 
+*/
+```
 
 ## Structure of a Program
 Generally a Java program is made up of two main files
@@ -208,6 +215,6 @@ class Driver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5ODMyNzk2MywzMzExMDk3MjcsMTc3NT
-c5MDcyMCwtNjk2OTU4MjI1XX0=
+eyJoaXN0b3J5IjpbLTEyOTc1ODYyMTAsMzMxMTA5NzI3LDE3Nz
+U3OTA3MjAsLTY5Njk1ODIyNV19
 -->
