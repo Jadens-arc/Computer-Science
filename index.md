@@ -135,13 +135,12 @@ ArrayList<Integer> intList = new ArrayList<Integer>();
 - clear()
 
 **add(declared datatype)**
-Allows you to add on to the end of an ArrayList
+Adds on to the **end** of an ArrayList
 ```java
 strList.add("hi");
 ```
 
 **get(int index)**
-Allows you to get a value in an Arraylist
 ```java
 strList.get(0);
 // returns the first item in an Arraylist
@@ -161,13 +160,14 @@ length = strList.length();
 ```
 
 **remove(int index)**
-Allows you to remove an element in an ArrayList
 ```java
 strList.remove(0);
 // removes first item in ArrayList
 ```
 
 ** clear()**
+```java
+
 
 #### Array
 Downsides (when compared to an Array)
@@ -260,6 +260,6 @@ class Driver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUyMzI3NzU1LDMzMTEwOTcyNywxNzc1Nz
-kwNzIwLC02OTY5NTgyMjVdfQ==
+eyJoaXN0b3J5IjpbLTkzMjYwNTY4Myw3NTIzMjc3NTUsMzMxMT
+A5NzI3LDE3NzU3OTA3MjAsLTY5Njk1ODIyNV19
 -->
