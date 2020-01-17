@@ -93,12 +93,15 @@ boolean myBool = false;
 ```
 
 ### Non-Primitives:
+> Make 
 #### String
 ``` java
+String myString = "Hell0 Internet!";
 ```
 
 #### Array List
 ``` java
+
 ```
 
 #### Array
@@ -158,5 +161,5 @@ class Driver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5Njk1ODIyNV19
+eyJoaXN0b3J5IjpbMTUxOTE0NjY1MiwtNjk2OTU4MjI1XX0=
 -->
