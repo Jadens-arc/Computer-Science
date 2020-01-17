@@ -226,7 +226,9 @@ import java.io.*;
 File myFile = new File("filename.txt");
 Scanner myFileScanner = new Scanner(myFile);
 // this creates a scanner to use the file
-// to put 
+// to put the data in the file line-by-line into an ArrayList user...
+ArrayList<String> myFileArr = new ArrayList<String>();
+while(myFile.hasNext())
 ```
 
 ## Structure of a Program
@@ -282,6 +284,6 @@ class Driver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNDI1NjA2Myw3NTIzMjc3NTUsMzMxMT
-A5NzI3LDE3NzU3OTA3MjAsLTY5Njk1ODIyNV19
+eyJoaXN0b3J5IjpbLTExMDgzOTAxMzgsNzUyMzI3NzU1LDMzMT
+EwOTcyNywxNzc1NzkwNzIwLC02OTY5NTgyMjVdfQ==
 -->
