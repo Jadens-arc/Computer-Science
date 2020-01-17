@@ -159,6 +159,7 @@ Printing an array
 System.out.println(Array.toString(myStrList));
 /*
  output 
+ > ["hi", "", "", "", ""]
 */
 ```
 
@@ -215,6 +216,6 @@ class Driver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTc1ODYyMTAsMzMxMTA5NzI3LDE3Nz
+eyJoaXN0b3J5IjpbLTE1NjcxODU3MjksMzMxMTA5NzI3LDE3Nz
 U3OTA3MjAsLTY5Njk1ODIyNV19
 -->
