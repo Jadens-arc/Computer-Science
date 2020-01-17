@@ -125,14 +125,21 @@ Benefits (when compared to an Array)
 
 ``` java
 ArrayList<String> strList = new ArrayList<String>();
-ArrayList<Integer> strList = new ArrayList<Integer>();
+ArrayList<Integer> intList = new ArrayList<Integer>();
 ```
  **Methods**
 
-- add
- - remove
- - get
- - set
+- add()
+- remove()
+- get()
+- set()
+- length()
+
+**Add()**
+Allows you to add on to the end of an ArrayList
+```java
+strList.add()
+```
 
 #### Array
 Downsides (when compared to an Array)
@@ -226,6 +233,6 @@ class Driver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTk4OTg0OTEsMzMxMTA5NzI3LDE3Nz
+eyJoaXN0b3J5IjpbLTEzMDk0OTI3MjQsMzMxMTA5NzI3LDE3Nz
 U3OTA3MjAsLTY5Njk1ODIyNV19
 -->
