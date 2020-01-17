@@ -106,7 +106,7 @@ String myString = "Hell0 Internet!";
 Downsides (when compared to an Array)
 
 - Slower
-- Require More ram
+- Require more proccessing power
 
 Benefits (when compared to an Array)
 
@@ -119,7 +119,16 @@ ArrayList<Integer> strList = new ArrayList<Integer>();
 ```
 
 #### Array
+Downsides (when compared to an Array)
 
+- Unable to remove elements
+- Unable to add elements
+- Fixed length
+
+Benefits (when compared to an Array)
+
+- Faster
+- Less proccessing power
 ``` java
 int[] myIntList = {1, 4, 4}
 String[] myStrList = new String[5]; 
@@ -178,5 +187,5 @@ class Driver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTYxNDQ2MjYsLTY5Njk1ODIyNV19
+eyJoaXN0b3J5IjpbMTc3NTc5MDcyMCwtNjk2OTU4MjI1XX0=
 -->
