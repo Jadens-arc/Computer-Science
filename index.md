@@ -60,7 +60,7 @@ largest number is 9,223,372,036,854,775,807
 - must be a whole number
 - can be positive or negative
 ``` java
-long mLong = 8;
+long myLong = 8;
 ```
 
 #### Floatl
@@ -187,5 +187,6 @@ class Driver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NTc5MDcyMCwtNjk2OTU4MjI1XX0=
+eyJoaXN0b3J5IjpbMTMyNTgwMzQyOSwxNzc1NzkwNzIwLC02OT
+Y5NTgyMjVdfQ==
 -->
