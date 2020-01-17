@@ -93,7 +93,10 @@ boolean myBool = false;
 ```
 
 ### Non-Primitives:
-> Make 
+> Make sure you import util to get the most functionality
+> ```java
+>  import java.util.*;
+>  ```
 #### String
 ``` java
 String myString = "Hell0 Internet!";
@@ -161,5 +164,5 @@ class Driver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxOTE0NjY1MiwtNjk2OTU4MjI1XX0=
+eyJoaXN0b3J5IjpbLTcxNTIyODUwMSwtNjk2OTU4MjI1XX0=
 -->
