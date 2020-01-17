@@ -215,6 +215,8 @@ int length = myStrList.length;
 ## External Input
 ### From User
 ```java
+import java.util.*;
+
 Scanner myUserIn = new Scanner(System.in);
 String userIn = myUserIn.next();
 // userIn now equals what ever the user inputs
@@ -222,13 +224,17 @@ String userIn = myUserIn.next();
 
 ### From File
 ```java
+import java.util.*;
 import java.io.*;
+
 File myFile = new File("filename.txt");
 Scanner myFileScanner = new Scanner(myFile);
 // this creates a scanner to use the file
 // to put the data in the file line-by-line into an ArrayList user...
 ArrayList<String> myFileArr = new ArrayList<String>();
-while(myFile.hasNext())
+while(myFile.hasNext()){
+	myFileArr.add(myFile.next());
+}
 ```
 
 ## Structure of a Program
@@ -240,19 +246,16 @@ And the second file(Driver) that calls these classes and methods
 
 **Main File**
 ``` java 
-class Main
-{ 
+class Main{ 
   Private String greeting;
   Private String name;
   
-  Public Main(String username, String userGreeting = "hello ")
-  {
+  Public Main(String username, String userGreeting = "hello "){
     greeting = userGreeting;
     name = username;
   }
   
-  Public void sayHi()
-  {
+  Public void sayHi(){
     System.out.println(greeting + name);
   }
 }
@@ -261,10 +264,8 @@ class Main
 
 **Driver**
 ```java 
-class Driver
-{
-  Public static main(String[] args)
-  {
+class Driver{
+  Public static main(String[] args){
     Main myGuy = new Main("Jaden");
     myGuy.sayHi();
     
@@ -284,6 +285,6 @@ class Driver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDgzOTAxMzgsNzUyMzI3NzU1LDMzMT
-EwOTcyNywxNzc1NzkwNzIwLC02OTY5NTgyMjVdfQ==
+eyJoaXN0b3J5IjpbLTk2ODYzNzU1NCw3NTIzMjc3NTUsMzMxMT
+A5NzI3LDE3NzU3OTA3MjAsLTY5Njk1ODIyNV19
 -->
