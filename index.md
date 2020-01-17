@@ -213,7 +213,12 @@ int length = myStrList.length;
 ```
 
 ## External Input
+### From User
+```java
+Scanner myUserIn = new Scan
+```
 
+### From File
 
 
 ## Structure of a Program
@@ -269,6 +274,6 @@ class Driver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNDQ5MzY2NCw3NTIzMjc3NTUsMzMxMT
-A5NzI3LDE3NzU3OTA3MjAsLTY5Njk1ODIyNV19
+eyJoaXN0b3J5IjpbMzIxMDc3NjI3LDc1MjMyNzc1NSwzMzExMD
+k3MjcsMTc3NTc5MDcyMCwtNjk2OTU4MjI1XX0=
 -->
