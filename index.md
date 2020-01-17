@@ -103,8 +103,14 @@ String myString = "Hell0 Internet!";
 ```
 
 #### Array List
-Be
--
+Downsides
+
+- Slower
+- Require More ram
+
+Benefits
+
+- Expandable()
 ``` java
 ArrayList<String> strList = new ArrayList<String>();
 ArrayList<Integer> strList = new ArrayList<Integer>();
@@ -167,5 +173,5 @@ class Driver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTA0OTM5NjksLTY5Njk1ODIyNV19
+eyJoaXN0b3J5IjpbMTMzMTY1MTc2NSwtNjk2OTU4MjI1XX0=
 -->
