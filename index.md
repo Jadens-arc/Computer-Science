@@ -104,7 +104,8 @@ String myString = "Hell0 Internet!";
 
 #### Array List
 ``` java
-
+ArrayList<String> strList = new ArrayList<String>();
+ArrayList<int> strList = new ArrayList<int>();
 ```
 
 #### Array
@@ -164,5 +165,5 @@ class Driver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNTIyODUwMSwtNjk2OTU4MjI1XX0=
+eyJoaXN0b3J5IjpbMTczNTgzOTAwOSwtNjk2OTU4MjI1XX0=
 -->
