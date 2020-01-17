@@ -127,6 +127,8 @@ Benefits (when compared to an Array)
 ArrayList<String> strList = new ArrayList<String>();
 ArrayList<Integer> strList = new ArrayList<Integer>();
 ```
+ **Methods**
+
 
 #### Array
 Downsides (when compared to an Array)
@@ -216,6 +218,6 @@ class Driver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjcxODU3MjksMzMxMTA5NzI3LDE3Nz
-U3OTA3MjAsLTY5Njk1ODIyNV19
+eyJoaXN0b3J5IjpbMTcwODg3MzE5MywzMzExMDk3MjcsMTc3NT
+c5MDcyMCwtNjk2OTU4MjI1XX0=
 -->
