@@ -151,7 +151,14 @@ output
 
 **set(int index, declared datatype value)**
 ```java
-strList.set(0, "bye")
+strList.set(0, "bye");
+```
+
+**length()**
+```java
+strList.length();
+// returns length of list
+length = strList.length
 ```
 
 **remove(int index)**
@@ -252,6 +259,6 @@ class Driver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MzYxNzEyLDMzMTEwOTcyNywxNzc1Nz
-kwNzIwLC02OTY5NTgyMjVdfQ==
+eyJoaXN0b3J5IjpbMTg0NTcxNTI4OSwzMzExMDk3MjcsMTc3NT
+c5MDcyMCwtNjk2OTU4MjI1XX0=
 -->
