@@ -134,7 +134,7 @@ ArrayList<Integer> intList = new ArrayList<Integer>();
 - length()
 - clear()
 
-**add()**
+**add(declared datatype)**
 Allows you to add on to the end of an ArrayList
 ```java
 strList.add("hi");
@@ -149,8 +149,10 @@ output
 > hi
 ```
 
-**set()**
-
+**set(int index, declared datatype value)**
+```java
+strList.set(0, "bye")
+```
 
 **remove(int index)**
 Allows you to remove an element in an ArrayList
@@ -250,6 +252,6 @@ class Driver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk3NDE4NjA2LDMzMTEwOTcyNywxNzc1Nz
+eyJoaXN0b3J5IjpbMTQ3MzYxNzEyLDMzMTEwOTcyNywxNzc1Nz
 kwNzIwLC02OTY5NTgyMjVdfQ==
 -->
