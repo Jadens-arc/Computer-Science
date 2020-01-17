@@ -167,7 +167,7 @@ strList.remove(0);
 // removes first item in ArrayList
 ```
 
-** clear()**
+**Clear()**
 ```java
 strList.clear();
 // removes all items from list
@@ -265,6 +265,6 @@ class Driver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3ODkxNTE4MSw3NTIzMjc3NTUsMzMxMT
+eyJoaXN0b3J5IjpbLTc5Mjc3Mjg1OSw3NTIzMjc3NTUsMzMxMT
 A5NzI3LDE3NzU3OTA3MjAsLTY5Njk1ODIyNV19
 -->
