@@ -139,10 +139,19 @@ Allows you to add on to the end of an ArrayList
 ```java
 strList.add("hi");
 ```
+
+**get()**
+Allows you to get a value in an Arraylist
+```java
+strList.get(0);
+// returns the
+```
+
 **remove**
 Allows you to remove an element in an ArrayList
 ```java
 strList.remove(0);
+// removes first item in ArrayList
 ```
 
 #### Array
@@ -236,6 +245,6 @@ class Driver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjU1MTgwMjEsMzMxMTA5NzI3LDE3Nz
+eyJoaXN0b3J5IjpbLTEwNTE1NDYzNjYsMzMxMTA5NzI3LDE3Nz
 U3OTA3MjAsLTY5Njk1ODIyNV19
 -->
