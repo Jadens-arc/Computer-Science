@@ -215,11 +215,15 @@ int length = myStrList.length;
 ## External Input
 ### From User
 ```java
-Scanner myUserIn = new Scan
+Scanner myUserIn = new Scanner(System.in);
+String userIn = myUserIn.next();
+// userIn now equals what ever the user inputs
 ```
 
 ### From File
-
+```java
+import java.io.*;
+```
 
 ## Structure of a Program
 Generally a Java program is made up of two main files
@@ -274,6 +278,6 @@ class Driver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIxMDc3NjI3LDc1MjMyNzc1NSwzMzExMD
-k3MjcsMTc3NTc5MDcyMCwtNjk2OTU4MjI1XX0=
+eyJoaXN0b3J5IjpbLTEwMDA5MTU5OTcsNzUyMzI3NzU1LDMzMT
+EwOTcyNywxNzc1NzkwNzIwLC02OTY5NTgyMjVdfQ==
 -->
