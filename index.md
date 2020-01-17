@@ -142,6 +142,7 @@ strList.add("hi");
 
 **get(int index)**
 ```java
+// name.get(int index)
 strList.get(0);
 // returns the first item in an Arraylist
 String firstItem = strList.get(0);
@@ -161,12 +162,16 @@ length = strList.length();
 
 **remove(int index)**
 ```java
+// name.remove(int index)
 strList.remove(0);
 // removes first item in ArrayList
 ```
 
 ** clear()**
 ```java
+strList.clear();
+// removes all items from list
+```
 
 
 #### Array
@@ -260,6 +265,6 @@ class Driver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMjYwNTY4Myw3NTIzMjc3NTUsMzMxMT
+eyJoaXN0b3J5IjpbMjA3ODkxNTE4MSw3NTIzMjc3NTUsMzMxMT
 A5NzI3LDE3NzU3OTA3MjAsLTY5Njk1ODIyNV19
 -->
