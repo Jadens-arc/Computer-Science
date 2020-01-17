@@ -112,13 +112,17 @@ Benefits (when compared to an Array)
 
 - Able to add element
 - Able to delete element
+- Not a fixed length
 ``` java
 ArrayList<String> strList = new ArrayList<String>();
 ArrayList<Integer> strList = new ArrayList<Integer>();
 ```
 
 #### Array
+
 ``` java
+int[] myIntList = {1, 4, 4}
+String[] myStrList = new String[5]; 
 ```
 
 ## Structure of a Program
@@ -174,5 +178,5 @@ class Driver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNzQyNzIxNSwtNjk2OTU4MjI1XX0=
+eyJoaXN0b3J5IjpbLTIwNTYxNDQ2MjYsLTY5Njk1ODIyNV19
 -->
