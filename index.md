@@ -35,6 +35,7 @@ Return: what will be returned when the method is ran
 largest number is 2,147,483,647
 - must be a whole number
 - can be positive or negative
+
 ``` java
 int myInt = 8;
 ```
@@ -43,6 +44,7 @@ int myInt = 8;
 largest number is 127
 - must be a whole number
 - can be positive or negative
+
 ``` java
 byte myByte = 8;
 ```
@@ -51,6 +53,7 @@ byte myByte = 8;
 largest number is 32,767
 - must be a whole number
 - can be positive or negative
+
 ``` java
 short myShort = 8;
 ```
@@ -59,6 +62,7 @@ short myShort = 8;
 largest number is 9,223,372,036,854,775,807
 - must be a whole number
 - can be positive or negative
+
 ``` java
 long myLong = 8;
 ```
@@ -67,6 +71,7 @@ long myLong = 8;
 argest number is approximately ±3.40282347E+38F  
 (6-7 significant decimal digits)
 - does not have to be whole
+
 ``` java
 float myFloat = 9.41;
 ```
@@ -75,6 +80,7 @@ float myFloat = 9.41;
 largest number is approximately ±1.79769313486231570E+308  
 (15 significant decimal digits)
 - does not have to be whole
+
 ``` java
 double myDub = 6;
 ```
@@ -82,12 +88,14 @@ double myDub = 6;
 #### Char
 - can only be one character long
 - can be take from String using ```myString.charAt(int index)```
+
 ``` java
 char myChar = 'c';
 ```
 
 #### Boolean
 - must be ```true``` or ```false```
+
 ``` java
 boolean myBool = false;
 ```
@@ -188,6 +196,6 @@ class Driver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MTE3NjAzOSwxNzc1NzkwNzIwLC02OT
+eyJoaXN0b3J5IjpbLTU2NzM1Mzk1MywxNzc1NzkwNzIwLC02OT
 Y5NTgyMjVdfQ==
 -->
