@@ -147,7 +147,13 @@ dataType[] name = new dataType[size]
 */
 String[] myStrList = new String[5]; 
 ```
-Setting values in a
+Setting values in an array
+```java
+/*
+name[item index] = data
+*/
+myStrList[0] = "hi";
+```
 
 ## Structure of a Program
 Generally a Java program is made up of two main files
@@ -202,6 +208,6 @@ class Driver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTYzNTYxMTUsMzMxMTA5NzI3LDE3Nz
-U3OTA3MjAsLTY5Njk1ODIyNV19
+eyJoaXN0b3J5IjpbLTU5ODMyNzk2MywzMzExMDk3MjcsMTc3NT
+c5MDcyMCwtNjk2OTU4MjI1XX0=
 -->
