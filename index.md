@@ -135,11 +135,13 @@ ArrayList<Integer> intList = new ArrayList<Integer>();
 - set()
 - length()
 
-**Add()**
+**add()**
 Allows you to add on to the end of an ArrayList
 ```java
-strList.add()
+strList.add("hi");
 ```
+**remove**
+Allows you to rem
 
 #### Array
 Downsides (when compared to an Array)
@@ -170,10 +172,9 @@ myStrList[0] = "hi";
 **Printing an Array**
 ```java
 System.out.println(Array.toString(myStrList));
-/*
- output 
- > ["hi", "", "", "", ""]
-*/
+
+output 
+> ["hi", "", "", "", ""]
 ```
 **Getting the Size of an Array**
 ```java
@@ -225,7 +226,7 @@ class Driver
 ```
 
 **Output**
-```
+```java
 > hello Jaden
 > hi Dom
 ```
@@ -233,6 +234,6 @@ class Driver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDk0OTI3MjQsMzMxMTA5NzI3LDE3Nz
-U3OTA3MjAsLTY5Njk1ODIyNV19
+eyJoaXN0b3J5IjpbMTA4MzcyLDMzMTEwOTcyNywxNzc1NzkwNz
+IwLC02OTY5NTgyMjVdfQ==
 -->
