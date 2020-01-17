@@ -145,8 +145,7 @@ Allows you to get a value in an Arraylist
 ```java
 strList.get(0);
 // returns the first item in an Arraylist
-output
-> hi
+String firstItem = strList.get(0);
 ```
 
 **set(int index, declared datatype value)**
@@ -158,7 +157,7 @@ strList.set(0, "bye");
 ```java
 strList.length();
 // returns length of list
-length = strList.length
+length = strList.length();
 ```
 
 **remove(int index)**
@@ -167,6 +166,8 @@ Allows you to remove an element in an ArrayList
 strList.remove(0);
 // removes first item in ArrayList
 ```
+
+** clear()**
 
 #### Array
 Downsides (when compared to an Array)
@@ -259,6 +260,6 @@ class Driver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NTcxNTI4OSwzMzExMDk3MjcsMTc3NT
-c5MDcyMCwtNjk2OTU4MjI1XX0=
+eyJoaXN0b3J5IjpbNzUyMzI3NzU1LDMzMTEwOTcyNywxNzc1Nz
+kwNzIwLC02OTY5NTgyMjVdfQ==
 -->
