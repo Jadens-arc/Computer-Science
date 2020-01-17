@@ -235,6 +235,8 @@ ArrayList<String> myFileArr = new ArrayList<String>();
 while(myFile.hasNext()){
 	myFileArr.add(myFile.next());
 }
+// Once this loop goes over the entire file
+// you will be left with an ArrayList containing each line of the file
 ```
 
 ## Structure of a Program
@@ -285,6 +287,6 @@ class Driver{
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2ODYzNzU1NCw3NTIzMjc3NTUsMzMxMT
-A5NzI3LDE3NzU3OTA3MjAsLTY5Njk1ODIyNV19
+eyJoaXN0b3J5IjpbLTE5MjE3MjU0MzksNzUyMzI3NzU1LDMzMT
+EwOTcyNywxNzc1NzkwNzIwLC02OTY5NTgyMjVdfQ==
 -->
