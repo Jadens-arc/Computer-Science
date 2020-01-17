@@ -212,6 +212,10 @@ output
 int length = myStrList.length;
 ```
 
+## External Input
+
+
+
 ## Structure of a Program
 Generally a Java program is made up of two main files
 
@@ -265,6 +269,6 @@ class Driver
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5Mjc3Mjg1OSw3NTIzMjc3NTUsMzMxMT
+eyJoaXN0b3J5IjpbMTQzNDQ5MzY2NCw3NTIzMjc3NTUsMzMxMT
 A5NzI3LDE3NzU3OTA3MjAsLTY5Njk1ODIyNV19
 -->
