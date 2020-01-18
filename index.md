@@ -267,7 +267,9 @@ class Main{
 **Driver**
 ```java 
 class Driver{
-  Public static main(String[] args){
+  // Public static void main(String[] args) is the code that 
+  // will be ran when the program is ran
+  Public static void main(String[] args){
     Main myGuy = new Main("Jaden");
     myGuy.sayHi();
     
