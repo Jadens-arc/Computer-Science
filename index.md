@@ -131,7 +131,7 @@ ArrayList<Integer> intList = new ArrayList<Integer>();
 - remove()
 - get()
 - set()
-- length()
+- size()
 - clear()
 
 **add(declared datatype)**
@@ -153,11 +153,11 @@ String firstItem = strList.get(0);
 strList.set(0, "bye");
 ```
 
-**length()**
+**size()**
 ```java
-strList.length();
+strList.size();
 // returns length of list
-length = strList.length();
+length = strList.size();
 ```
 
 **remove(int index)**
